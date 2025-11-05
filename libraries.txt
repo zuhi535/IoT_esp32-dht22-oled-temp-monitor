@@ -1,0 +1,13 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+# Automatically added based on includes:
+DHT sensor library
+
+DHT22
+Adafruit GFX Library
+Adafruit SSD1306
+Adafruit seesaw Library
+Adafruit Sensor Lab
+Adafruit Sensor Calibration
+U8g2_for_Adafruit_GFX
