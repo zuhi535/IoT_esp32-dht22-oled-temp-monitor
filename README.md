@@ -66,3 +66,17 @@ Telepíthetők az Arduino IDE Library Managerből.
 
 ## 📸 Példa működés közben
 
+
+
+
+💡 Ekkor a **sárga LED** világít, mert a hőmérséklet 20–30 °C között van.
+
+---
+
+## 📁 Projekt célja
+
+Ez a projekt egy egyszerű **okos hőmérő prototípus**, amely jól szemlélteti az **IoT-alapú érzékelés és megjelenítés** alapjait ESP32-vel.
+
+---
+
+© 2025 – ESP32 DHT22 OLED Temperature Monitor
