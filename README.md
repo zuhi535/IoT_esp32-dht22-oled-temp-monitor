@@ -66,6 +66,7 @@ Telepíthetők az Arduino IDE Library Managerből.
 
 ## 📸 Példa működés közben
 
+![Projekt felépítése](esp32.png)
 
 
 
